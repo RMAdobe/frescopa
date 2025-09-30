@@ -3,7 +3,7 @@
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
   "plugins": [
-{
+    {
       "id": "generate-variations",
       "title": "Generate Variations",
       "url": "https://experience.adobe.com/aem/generate-variations",
@@ -53,8 +53,7 @@
         "**.docx**"
       ],
       "event": "aem-genai-variations-sidekick"
-    }
-
+    },
     {
       "id": "cif",
       "title": "Commerce",
