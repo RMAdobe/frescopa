@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153123-e1585310.adobeaemcloud.com/bin/franklin.delivery/rmadobe/frescopa/main"
+    url: "https://adobe.sharepoint.com/sites/Solution-LedMSCTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSolution%2DLedMSCTeam%2FShared%20Documents%2FGeneral%2FEdge%20Delivery%20Projects%2Fray%2Ddba%2Dfrescopa&viewid=2a7c980e%2De0d5%2D4467%2D92f9%2Dff90ffef7751&FolderCTID=0x01200048CEB62211784B4AAFEDDF31309815A2"
     type: "markup"
     suffix: ".html"
 folders:
